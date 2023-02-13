@@ -1,2 +1,1 @@
-# Blinky
-fadsklf
+First every C Program and Porject!
